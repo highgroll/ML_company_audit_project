@@ -33,5 +33,3 @@ $ docker build -t highgroll/ML_company_audit_project .
 ```
 $ docker run -d -p 8180:8180 -p 8181:8181 -v /home/sergey/project/ML_company_audit_project/app/models highgroll/ml_company_audit_project
 ```
-
-### Переходим на localhost:8181
